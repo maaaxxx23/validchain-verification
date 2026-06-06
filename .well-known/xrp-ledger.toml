@@ -1,9 +1,9 @@
 [[VALIDATORS]]
 public_key = "nHUN6K8pWQ8yfX9DTFvWcnTv7CTWQNLWTNpQ8GTn69c3DeP7HUV6"
+attestation = "D9875EFF57EA59D3D9E9F72A868A3E4C78427CAEA1A27540C73EB37EDFDFFC14D4EBA419D09DB3B5D12354EFD2DB3FBADB4B9CE090990A007BED2262E8713F0C"
 network = "testnet"
 description = "ValidChain Testnet Validator"
 
 [METADATA]
 org_name = "ValidChain"
 org_website = "https://validchain.xyz"
-
