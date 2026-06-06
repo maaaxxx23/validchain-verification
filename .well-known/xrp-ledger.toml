@@ -1,0 +1,8 @@
+[[VALIDATORS]]
+public_key = "nHUN6K8pWQ8yfX9DTFvWcnTv7CTWQNLWTNpQ8GTn69c3DeP7HUV6"
+network = "testnet"
+description = "ValidChain Testnet Validator"
+
+[METADATA]
+org_name = "ValidChain"
+org_website = "https://validchain.xyz"
